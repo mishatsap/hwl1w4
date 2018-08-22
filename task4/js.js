@@ -11,8 +11,4 @@ function initMap() {
 		position: {lat: 49.8393088, lng: 24.0336896},
 		map: myMap
 	});
-
-	var InfoWindow = new google.maps.InfoWindow({
-		content: ""
-	});
 };
